@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "sha256": "672cf3cb00106997fe5532a2c8e64eab5d8e1602c37a488eff1090b8e39407d1",
-  "sha12": "672cf3cb0010",
-  "size": 8685294,
-  "mtime": 1791229651,
+  "sha256": "91e30c27a9e0c10d7a9bfa61ed6f87e1426555a96871f2026dbaadb8534e73d5",
+  "sha12": "91e30c27a9e0",
+  "size": 3942529,
+  "mtime": 1791260767,
   "module": {
     "has_xposed_init": true
   }
